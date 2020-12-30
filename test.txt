@@ -1,0 +1,1 @@
+[bskendig@netcom.com , joslin@pogo.isp.pitt.edu] → [netcom, pogo.isp.pitt.edu] → [netcom, pogo, isp, pitt, edu] →“netcom pogo isp pitt edu”
